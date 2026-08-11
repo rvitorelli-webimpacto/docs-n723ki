@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-9n884i.kujang138bos.online/sitemap.xml
